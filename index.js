@@ -20,7 +20,8 @@ function sayHiToGrandma(string) {
   } else if string === stting.toUpperCase() {
     return "YES INDEED!"
   } else ("I love you, Grandma.") {
-    return ""
+    return "I love you, too."
+    
     
   
 
