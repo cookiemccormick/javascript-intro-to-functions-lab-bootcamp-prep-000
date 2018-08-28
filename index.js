@@ -19,5 +19,5 @@ function sayHiToGrandma(string = toLowerCase) {
 }
 
 function sayHiToGrandma(string = toUpperCase) {
-  
+  return "YES INDEED!"
 }
